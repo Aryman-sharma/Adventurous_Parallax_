@@ -14,7 +14,10 @@ it's like when you're in a car and objects close to the road seem to pass by qui
 The Main technologies used are as follows
  > HTML
  > 
- > CSS   
+ > CSS 
+
+# Images
+![Bad*](https://github.com/Aryman-sharma/Adventurous_Parallax_/blob/main/Screenshot%202023-09-16%20013601.png)
 
 
 # Acknowledgement
@@ -23,5 +26,3 @@ I would like to express our gratitude to the following individuals and resources
 >
 > MDN Docs
   
-
-
